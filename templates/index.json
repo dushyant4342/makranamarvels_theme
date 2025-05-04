@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero-banner",
+      "settings": {
+        "heading": "Makrana Marvels",
+        "subheading": "Hand\u2011carved Marble Art"
+      }
+    }
+  },
+  "order": [
+    "hero"
+  ]
+}

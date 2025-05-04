@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Colors",
+    "settings": [
+      {
+        "type": "color",
+        "id": "primary_bg",
+        "label": "Primary background",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "color",
+        "id": "primary_text",
+        "label": "Primary text",
+        "default": "#2A2A2A"
+      },
+      {
+        "type": "color",
+        "id": "accent",
+        "label": "Accent color",
+        "default": "#D4AF37"
+      }
+    ]
+  }
+]

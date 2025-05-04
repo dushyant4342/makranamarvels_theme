@@ -1,0 +1,7 @@
+{{ content_for_header }}
+<link rel="stylesheet" href="{{ 'theme.css' | asset_url }}" />
+<body class="mm-body">
+  {% section 'header' %}
+  {{ content_for_layout }}
+  {% section 'footer' %}
+</body>
